@@ -109,7 +109,7 @@ nav ul li{
     left: 10vw;
     font-family: 'Varela Round', sans-serif;
 }
-
+// songs image (divine)
 .songInfo img{
     opacity: 0;
     transition: opacity 0.4s ease-in;
